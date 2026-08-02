@@ -1,0 +1,4 @@
+interface:
+  display_name: "LLM-Free First Review"
+  short_description: "LLMなし課題の第1段階レビューを一貫して実施する"
+  default_prompt: "Use $llm-free-first-review to review my completed challenge."
